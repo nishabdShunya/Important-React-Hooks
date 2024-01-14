@@ -1,6 +1,8 @@
-import React from 'react';
+// Write your code at relevant places in the code below:
 
-import classes from './Navigation.module.css';
+import React from "react";
+
+import classes from "./Navigation.module.css";
 
 const Navigation = (props) => {
   return (
